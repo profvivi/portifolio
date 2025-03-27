@@ -12,7 +12,7 @@
     
 }
 
-.texto-perfil{ 
+.texto-perfil, h1{ 
     display: flex;
     justify-content: center;
     
