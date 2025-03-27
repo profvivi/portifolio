@@ -7,5 +7,6 @@
 .perfil{
     width: 150px;
     height: 150px;
+    align-items: center;
     text-align: center;
 }
