@@ -7,12 +7,14 @@
 }
 
 .perfil{
+    display: flex;
     width: 150px;
     height: 150px;
     
 }
 
 .texto-perfil{ 
+    display: flex;
     text-align: center;
    
 }
